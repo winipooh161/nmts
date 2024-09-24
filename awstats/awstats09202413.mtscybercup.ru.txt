@@ -1,0 +1,301 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 20240913 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.mtscybercup.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1999                
+POS_TIME 2690                
+POS_VISITOR 3359                
+POS_DAY 4874                
+POS_DOMAIN 5028                
+POS_LOGIN 5259                
+POS_ROBOT 5414                
+POS_WORMS 5585                
+POS_EMAILSENDER 5716                
+POS_EMAILRECEIVER 5859                
+POS_SESSION 5935                
+POS_SIDER 6072                
+POS_FILETYPES 6653                
+POS_DOWNLOADS 6897                
+POS_OS 7066                
+POS_BROWSER 7186                
+POS_SCREENSIZE 7377                
+POS_UNKNOWNREFERER 7451                
+POS_UNKNOWNREFERERBROWSER 7538                
+POS_ORIGIN 7620                
+POS_SEREFERRALS 7753                
+POS_PAGEREFS 7897                
+POS_SEARCHWORDS 8074                
+POS_KEYWORDS 8226                
+POS_MISC 2354                
+POS_ERRORS 8285                
+POS_CLUSTER 5115                
+POS_SIDER_404 8386                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240913001722 45237 12323323 18998372204397
+FirstTime 20240913000121
+LastTime 20240913001722
+LastUpdate 20240913001903 45237 0 45237 0 0
+TotalVisits 14                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 21                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 5 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 51 217 1918384585 34 71 405731
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 21
+91.108.29.36 16 91 676098148 20240913000625 20240913000121 /assets/fonts/MTSCompact-Regular/MTSCompact-Regular.woff2
+80.83.234.84 7 26 292769413 20240913001011 20240913000517 /home
+213.87.136.125 6 20 1174948 20240913001722 20240913001650 /register
+46.138.73.160 6 18 1155791 20240913000858 20240913000856 /login
+94.233.251.21 4 16 1126137 20240913000135 20240913000134 /assets/fonts/MTSWide-Regular/MTSWide-Regular.woff2
+213.87.45.32 2 9 478367 20240913001246 20240913001246 /assets/fonts/MTSCompact-Regular/MTSCompact-Regular.woff2
+213.87.45.40 2 3 84330 20240913001246 20240913001245 /assets/fonts/MTSWide-Bold/MTSWide-Bold.woff2
+217.74.241.48 2 4 100908 20240913000509 20240913000508 /assets/fonts/MTSWide-Bold/MTSWide-Bold.woff2
+217.74.241.51 1 2 34559 20240913000509 20240913000509 /assets/fonts/MTSWide-Regular/MTSWide-Regular.woff2
+213.87.45.42 1 2 47114 20240913001246 20240913001246 /assets/fonts/MTSWide-Regular/MTSWide-Regular.woff2
+213.87.45.37 0 2 0 
+213.87.45.49 0 1 177173 
+213.87.45.53 0 2 0 
+213.87.45.36 0 3 0 
+213.87.45.50 1 3 118595 20240913001002 20240913001002 /home
+213.87.45.41 0 1 177173 
+213.87.45.51 0 5 547398 
+217.66.156.65 1 1 41491 20240913000818 20240913000818 /thanky/1
+213.87.45.39 0 2 0 
+217.74.241.53 1 6 455584 20240913000509 20240913000509 /assets/fonts/MTSWide-Medium/MTSWide-Medium.woff2
+217.74.241.50 1 5 566158 20240913000509 20240913000509 /assets/fonts/MTSCompact-Regular/MTSCompact-Regular.woff2
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20240913 51 217 1918384585 14
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ru 51 217 975153287
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Mail\.RU_Bot/ 2 14851 20240913000730 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/login 10 148744 6 0
+/assets/fonts/MTSWide-Medium/MTSWide-Medium.woff2 8 245664 2 0
+/assets/fonts/MTSCompact-Regular/MTSCompact-Regular.woff2 8 237440 1 0
+/assets/fonts/MTSWide-Regular/MTSWide-Regular.woff2 8 244288 2 0
+/home 5 592945 1 0
+/assets/fonts/MTSCompact-Medium/MTSCompact-Medium.woff2 4 119424 0 0
+/register 3 87024 0 0
+/assets/fonts/MTSWide-Bold/MTSWide-Bold.woff2 2 62144 0 0
+/thanky/2 1 41496 0 0
+/register-solo/2 1 56448 1 0
+/thanky/1 1 41491 1 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+pdf 2 354346 0 0
+png 40 28522958 0 0
+svg 5 3742 0 0
+Unknown 21 968148 0 0
+jpeg 5 390822 0 0
+mp4 1 943231298 0 0
+jpg 1 0 0 0
+woff2 30 908960 0 0
+css 36 545963 0 0
+js 76 227050 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/assets/doc/The%20rules%20of%20the%20MTC%20CYBER%20CUP%20tournament.pdf 2 0 354346
+/assets/video/lider.mp4 0 5 943231298
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx 91 16
+ios_iphone 27 8
+win10 50 11
+android 54 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+opera84.0.0.0 16 4
+chrome128.0.6613.127 20 6
+safari18.0 26 7
+chrome119.0.0.0 18 6
+chrome125.0.0.0 50 11
+chrome120.0.0.0 91 16
+safari17.6 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4 4
+From1 3 3
+From2 0 0
+From3 0 2
+From4 44 213
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://newportal.mts.ru 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 6 2156
+404 58 382974
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 23
+/icon/favicon-16x16.png 2 https://mtscybercup.ru/login
+/icon/apple-touch-icon-76x76.png 1 https://mtscybercup.ru/login
+/register-solo/icon/https://mtscybercup.ru/manifest.json 4 -
+/icon/favicon-32x32.png 3 https://mtscybercup.ru/login
+/icon/apple-touch-icon-144x144.png 2 https://mtscybercup.ru/login
+/icon/https://mtscybercup.ru/manifest.json 17 https://mtscybercup.ru/register
+/icon/apple-touch-icon-57x57.png 1 https://mtscybercup.ru/login
+/assets/img/elements/%D0%A1yberSport3.png 1 https://mtscybercup.ru/register-solo/2
+/icon/apple-touch-icon-120x120.png 1 https://mtscybercup.ru/login
+/icon/android-icon-72x72.png 2 https://mtscybercup.ru/login
+/icon/favicon-96x96.png 2 https://mtscybercup.ru/login
+/icon/apple-touch-icon-60x60.png 1 https://mtscybercup.ru/login
+/icon/apple-touch-icon-114x114.png 1 https://mtscybercup.ru/login
+/icon/apple-touch-icon-180x180.png 2 https://mtscybercup.ru/login
+/thanky/icon/https://mtscybercup.ru/manifest.json 2 https://mtscybercup.ru/thanky/1
+/register-group/icon/https://mtscybercup.ru/manifest.json 3 -
+/icon/favicon-120x120.png 2 https://mtscybercup.ru/login
+/icon/android-icon-144x144.png 3 https://mtscybercup.ru/login
+/icon/android-icon-512x512.png 3 https://mtscybercup.ru/login
+/icon/android-icon-192x192.png 2 https://mtscybercup.ru/login
+/icon/apple-touch-icon-72x72.png 1 https://mtscybercup.ru/login
+/archivarix.cms.php 1 http://mtscybercup.ru/archivarix.cms.php
+/icon/apple-touch-icon-152x152.png 1 https://mtscybercup.ru/login
+END_SIDER_404

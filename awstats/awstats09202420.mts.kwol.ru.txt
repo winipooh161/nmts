@@ -1,0 +1,254 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 20240920 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.mts.kwol.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1996                
+POS_TIME 2678                
+POS_VISITOR 3482                
+POS_DAY 3702                
+POS_DOMAIN 3854                
+POS_LOGIN 4084                
+POS_ROBOT 4239                
+POS_WORMS 4483                
+POS_EMAILSENDER 4614                
+POS_EMAILRECEIVER 4757                
+POS_SESSION 4833                
+POS_SIDER 4976                
+POS_FILETYPES 5477                
+POS_DOWNLOADS 5687                
+POS_OS 5857                
+POS_BROWSER 5934                
+POS_SCREENSIZE 6026                
+POS_UNKNOWNREFERER 6100                
+POS_UNKNOWNREFERERBROWSER 6187                
+POS_ORIGIN 6269                
+POS_SEREFERRALS 6401                
+POS_PAGEREFS 6545                
+POS_SEARCHWORDS 6693                
+POS_KEYWORDS 6845                
+POS_MISC 2342                
+POS_ERRORS 6904                
+POS_CLUSTER 3940                
+POS_SIDER_404 7017                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240921001022 298 73803 10267703727336
+FirstTime 20240920114006
+LastTime 20240920124602
+LastUpdate 20240921001924 298 0 297 0 0
+TotalVisits 1                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 6 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 4 29826
+1 0 0 0 3 4 29826
+2 0 0 0 3 11 50265
+3 0 1 177173 0 1 1150
+4 0 0 0 3 4 29826
+5 0 1 177173 2 12 36711
+6 0 1 177173 2 4 16248
+7 0 0 0 2 10 35537
+8 0 1 177173 1 3 15902
+9 0 0 0 3 12 50289
+10 0 1 177173 3 4 30952
+11 10 42 1141893672 21 29 150340
+12 7 23 1224529 22 24 162787
+13 0 0 0 7 8 59974
+14 0 0 0 15 23 136080
+15 0 0 0 5 5 44876
+16 0 0 0 3 11 51511
+17 0 0 0 4 5 30188
+18 0 0 0 2 2 15074
+19 0 0 0 5 5 44876
+20 0 0 0 4 4 44530
+21 0 0 0 7 16 94819
+22 0 0 0 8 8 89060
+23 0 0 0 6 16 94497
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+85.249.170.37 17 67 573132307 20240920124602
+213.87.98.253 0 1 177173 
+213.87.72.70 0 1 177173 
+217.74.241.48 0 1 177173 
+213.87.210.49 0 2 354346 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20240920 17 70 1144004066 1
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ru 17 70 574018172
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+YandexBot/ 73 809949 20240920234932 19
+yandex 64 185221 20240920231645 0
+no_user_agent 1 14728 20240920210902 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/home 4 474384 0 0
+/assets/fonts/MTSCompact-Regular/MTSCompact-Regular.woff2 2 59360 0 0
+/login 2 29456 1 0
+/assets/fonts/MTSWide-Medium/MTSWide-Medium.woff2 2 61416 0 0
+/assets/fonts/MTSWide-Regular/MTSWide-Regular.woff2 2 61072 0 0
+/assets/fonts/MTSWide-Bold/MTSWide-Bold.woff2 2 62144 0 1
+/register 2 57818 0 0
+/assets/fonts/MTSCompact-Medium/MTSCompact-Medium.woff2 1 29856 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+Unknown 8 561658 0 0
+svg 2 1492 0 0
+css 11 183137 0 0
+mp4 1 569985894 0 0
+js 19 59157 0 0
+pdf 6 1063038 0 0
+woff2 9 273848 0 0
+png 14 1889948 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/assets/doc/The%20rules%20of%20the%20MTC%20CYBER%20CUP%20tournament.pdf 6 0 1063038
+/assets/video/lider.mp4 0 2 569985894
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+win10 72 17
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+chrome126.0.0.0 67 17
+chrome125.0.0.0 5 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2 7
+From1 0 0
+From2 0 0
+From3 0 0
+From4 15 65
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 32 11040
+301 1 362
+404 48 316944
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/icon/https://mts.kwol.ru/manifest.json 46 -
+/icon/favicon-32x32.png 2 https://mts.kwol.ru/register
+END_SIDER_404
